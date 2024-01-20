@@ -1,5 +1,5 @@
 ### Hello! 👋
-I am a computer science undergraduate student at the University of Toronto.
+My name is Kiarash, and I am a computer science undergraduate student at the University of Toronto.
 <!--
 **zzadxz/zzadxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
