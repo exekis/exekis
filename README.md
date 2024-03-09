@@ -6,6 +6,6 @@ My name is Kiarash, and I am a computer science undergraduate student at the Uni
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Text Adventure Game with Adam Petrovic
+- 🔭 I’m currently working on DietTree, an app that helps you choose a fast food meal based on your target calories and macros 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: LinkedIn!
