@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiarash</h1>
 <h3 align="center">I am a computer science undergraduate student at the University of Toronto.</h3>
-<img align="right" alt="Tesseract" width="300" src="https://i.gifer.com/7SHr.gif">
+<img align="right" alt="Tesseract" width="400" src="https://raw.githubusercontent.com/zzadxz/zzadxz/main/assets/70961538/c7c94598-2ba0-4d05-8789-ecd5f0b82fdf">
+
+<!-- ![Ry6p](https://github.com/zzadxz/zzadxz/assets/70961538/c7c94598-2ba0-4d05-8789-ecd5f0b82fdf) -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzadxz" alt="zzadxz" /></a> </p> -->
 
