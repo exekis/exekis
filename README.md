@@ -89,5 +89,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzadxz&label=Profile_views&color=blue&style=for-the-badge" alt="zzadxz" /> </p>
