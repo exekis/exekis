@@ -1,6 +1,7 @@
 {
   "contribution_gravity": 2,
   "output_dir": "./profile-3d-contrib/",
+  "output_filename": "info.svg",
   "width": 1000,
   "height": 500
 }
