@@ -1,7 +1,38 @@
 {
-  "contribution_gravity": 2,
-  "output_dir": "./profile-3d-contrib/",
-  "output_filename": "info.svg",
-  "width": 1000,
-  "height": 500
+  "type": "season",
+  "fileName": "info.svg",
+  "backgroundColor": "none",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "#eeeeff",
+  "weakColor": "gray",
+  "radarColor": "#800000",
+  "growingAnimation": true,
+  "contribColors1": [
+    "#efefef",
+    "#ffe7ff",
+    "#edaeda",
+    "#e492ca",
+    "#ba7aad"
+  ],
+  "contribColors2": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
+  ],
+  "contribColors3": [
+    "#efefef",
+    "#ffed4a",
+    "#ffc402",
+    "#fe9400",
+    "#fa6100"
+  ],
+  "contribColors4": [
+    "#efefef",
+    "#999999",
+    "#cccccc",
+    "#dddddd",
+    "#eeeeee"
+  ]
 }
