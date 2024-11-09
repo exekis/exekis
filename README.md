@@ -8,9 +8,7 @@
 
 ### Languages and Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,typescript,figma,django,blender,bootstrap,matlab,mysql,react,tailwind,sklearn,nodejs,heroku,java,js,gcp,firebase,go,vercel" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,typescript,figma,django,matlab,mysql,react,tailwind,sklearn,nodejs,heroku,java,js,gcp,firebase,go,vercel" />
 </p>
 
 <p align="center">
